@@ -7,3 +7,4 @@ steps:
    commands:
       - bash sync.sh
       - bash build.sh 
+
